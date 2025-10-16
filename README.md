@@ -1,11 +1,9 @@
 # Machine Learning Zoomcamp
-
 My projects and solutions from the Machine Learning Zoomcamp 2025.
 
 ## 📋 Homework Assignments
 
 ### Homework 1: Introduction to Machine Learning
-
 **Dataset:** [Car Fuel Efficiency](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/car_fuel_efficiency.csv)  
 **Notebook:** [01-intro/homework.ipynb](https://github.com/Thibault13320/machine-learning-zoomcamp/blob/main/01-intro/homework.ipynb)
 
@@ -19,7 +17,6 @@ My projects and solutions from the Machine Learning Zoomcamp 2025.
 ---
 
 ### Homework 2: Machine Learning for Regression
-
 **Dataset:** [Car Fuel Efficiency](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/car_fuel_efficiency.csv)  
 **Notebook:** [02-regression/homework.ipynb](https://github.com/Thibault13320/machine-learning-zoomcamp/blob/main/02-regression/homework.ipynb)
 
@@ -34,7 +31,6 @@ My projects and solutions from the Machine Learning Zoomcamp 2025.
 ---
 
 ### Homework 3: Classification - Bank Marketing Lead Scoring
-
 **Dataset:** [Bank Marketing Lead Scoring](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/course_lead_scoring.csv)  
 **Notebook:** [03-classification/homework.ipynb](https://github.com/Thibault13320/machine-learning-zoomcamp/blob/main/03-classification/homework.ipynb)
 
@@ -49,6 +45,24 @@ My projects and solutions from the Machine Learning Zoomcamp 2025.
 * Hyperparameter tuning (C parameter)
 * Model evaluation using accuracy metrics
 
+---
+
+### Homework 4: Evaluation Metrics
+**Dataset:** [Course Lead Scoring](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/course_lead_scoring.csv)  
+**Notebook:** [04-evaluation/homework.ipynb](https://github.com/Thibault13320/machine-learning-zoomcamp/blob/main/04-evaluation/homework.ipynb)
+
+**Key Topics:**
+* ROC AUC for feature importance analysis
+* Logistic regression with DictVectorizer
+* Precision and Recall curves
+* Threshold optimization
+* F1 Score calculation and maximization
+* K-Fold Cross-Validation (5-fold)
+* Hyperparameter tuning with cross-validation
+* Model performance evaluation and validation strategies
+
+---
+
 ## 📊 Course Progress
 
 | Assignment | Status | Submitted |
@@ -56,7 +70,7 @@ My projects and solutions from the Machine Learning Zoomcamp 2025.
 | **Homework 1** - Introduction to ML | ✅ | Oct 02, 2025 |
 | **Homework 2** - Regression | ✅ | Oct 04, 2025 |
 | **Homework 3** - Classification | ✅ | Oct 11, 2025 |
-| **Homework 4** - Evaluation Metrics | 🔜 | - |
+| **Homework 4** - Evaluation Metrics | ✅ | Oct 16, 2025 |
 | **Homework 5** - Deployment | 🔜 | - |
 | **Homework 6** - Decision Trees & Ensemble | 🔜 | - |
 | **Midterm Project** | 🔜 | - |
@@ -66,10 +80,9 @@ My projects and solutions from the Machine Learning Zoomcamp 2025.
 | **Capstone Project** | 🔜 | - |
 | **Capstone Project 2** | 🔜 | - |
 
-**Completed: 3/12** (25%)
+**Completed: 4/12** (33%)
 
 ## 🛠️ Technologies & Tools
-
 * Python 3.10+
 * NumPy & Pandas
 * Matplotlib
@@ -96,7 +109,6 @@ jupyter notebook
 Each notebook can be opened directly in Google Colab by clicking the "Open in Colab" button at the top of the notebook.
 
 ## 📂 Repository Structure
-
 ```
 machine-learning-zoomcamp/
 ├── 01-intro/
@@ -104,14 +116,14 @@ machine-learning-zoomcamp/
 ├── 02-regression/
 │   └── homework.ipynb
 ├── 03-classification/
-│   └── homework_classification.ipynb
+│   └── homework.ipynb
+├── 04-evaluation/
+│   └── homework.ipynb
 └── README.md
 ```
 
 ## 📧 Connect
-
 **LinkedIn:** [Thibault Gardet](https://www.linkedin.com/in/thibault-gardet/)
 
 ---
-
-*Last updated: October 11, 2025*
+*Last updated: October 16, 2025*
